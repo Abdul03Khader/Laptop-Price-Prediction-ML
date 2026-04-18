@@ -50,5 +50,3 @@ Rating: 4.5
 
 
 
-
-## 📂 Project Structure
